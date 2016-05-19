@@ -12,3 +12,8 @@ Transfer Excel to XML format.
 
 #XML file format
 ![image](https://github.com/napyang/VBA-ExcelToXML/raw/master/screenshots/xml.png)
+
+
+#About
+
+Author: Nap Yang
